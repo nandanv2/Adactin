@@ -20,6 +20,7 @@ public class Validationsw {
 		String a= "Antony George";
 	    String b="Antony GEORGE";
 	    Assert.assertEquals(a,b);
+		system.out.println("Happy Valentines Day");
 }
 } 
 	
